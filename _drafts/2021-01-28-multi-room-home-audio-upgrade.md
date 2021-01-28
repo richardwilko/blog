@@ -3,7 +3,7 @@ published: false
 ---
 ## Mutli-room home audio upgrade
 
-I recently moved into a house with a cool, but obsolete (and broken) SystemLine multi-room home audio system.  It has 5 'zones', master bedroom, bathroom, living room, kitchen, garden with equipment as follows:
+I recently moved into a house with a cool, but obsolete (and broken) SystemLine multi-room home audio system.  The system is non-functioning - there is a suspicious high pitched squeel from the power supply isIt has 5 'zones', master bedroom, bathroom, living room, kitchen, garden
 
 ### Current system
 
