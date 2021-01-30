@@ -51,10 +51,13 @@ analytics:
     tracking_id: "G-W7ZJ2BYW4Y"
     anonymize_ip: true # default
 
+repository: "richardwilko/richardwilko.github.io"
+
 comments:
-  provider: "disqus"
-  disqus:
-    shortname: "blog-wilko-rocks"
+  provider: "utterances"
+  utterances:
+    theme: "github-light" 
+    issue_term: "pathname"
 
 # Plugins (previously gems:)
 plugins:
