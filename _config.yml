@@ -51,6 +51,11 @@ analytics:
     tracking_id: "G-W7ZJ2BYW4Y"
     anonymize_ip: true # default
 
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "blog-wilko-rocks"
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
