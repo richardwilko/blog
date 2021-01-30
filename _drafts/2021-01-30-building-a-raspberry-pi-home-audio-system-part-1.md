@@ -46,4 +46,3 @@ I want to make use of the existing speakers and cabling, but replace the obsolet
   - Note, I can live with the multi-room aspect being a bit more complex to set up, as this wont be required every day.
 - The system must be stable.
 - The system must not sound crappy.
-
