@@ -69,7 +69,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Richard"
+  name: richardw
+  display_name   : "Richard Wilkinson"
   avatar : "/assets/images/bio-photo.png"
   bio    : "UK based human."
   links:
